@@ -16,8 +16,8 @@ $$\int_{a}^{b} f(x)\, dx = F(b) - F(a)$$
 Here's an example image:
 
 ![Bickley Jet](Images/Bickleyjet(200x200).png)
-![Bickley Jet](Images/Bickleyjet(200x200)_mod2.png.png)
-![Bickley Jet](Images/Bickleyjet(200x200)_mod5.png.png)
+![Bickley Jet](Images/Bickleyjet(200x200)_mod2.png)
+![Bickley Jet](Images/Bickleyjet(200x200)_mod5.png)
 
 ## Authors
 
