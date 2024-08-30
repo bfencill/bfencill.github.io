@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +5,6 @@
   <title>LaTeX on GitHub Pages</title>
 </head>
 <body>
-
   <p>Testing.</p>
 
   <p>IMAGE:</p>
@@ -30,4 +26,3 @@
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </body>
 </html>
-
