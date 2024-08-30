@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
-  <title>LaTeX on GitHub Pages</title>
+  <h1>LaTeX on GitHub Pages</h1>
 </head>
 <body>
   <h1>Test</h1>
