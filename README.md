@@ -19,7 +19,7 @@
 
   <!-- Inline LaTeX -->
   <p>Display equation:</p>
-  <p>Inline equation: \( E = mc^2 \)</p>
+  <p>Inline equation: $\( E = mc^2 \) $</p>
   
   <!-- Display LaTeX -->
   <p>Display equation:</p>
