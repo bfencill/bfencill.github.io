@@ -18,6 +18,7 @@
   <img src="Images/Bickleyjet(200x200)_mod5.png" alt="A descriptive text about the image" width="300">
 
   <!-- Inline LaTeX -->
+  <p>Display equation:</p>
   <p>Inline equation: \( E = mc^2 \)</p>
   
   <!-- Display LaTeX -->
