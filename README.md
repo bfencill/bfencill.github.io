@@ -5,6 +5,7 @@
   <title>LaTeX on GitHub Pages</title>
 </head>
 <body>
+  <h1>Test</h1>
   <p>Testing.</p>
 
   <p>IMAGE:</p>
