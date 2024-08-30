@@ -10,7 +10,7 @@
   <p>IMAGE:</p>
   <img src="Images/Bickleyjet(200x200).png" alt="A descriptive text about the image" width="300">
   <img src="Images/Bickleyjet(200x200)_mod2.png" alt="A descriptive text about the image" width="300">
-  <img src="Images/Bickleyjet(200x200)_mod5.png" alt="A descriptive text about the image" width="300">
+  <img src="Images/Bickleyjet(200x200)_mod5.png" alt="A Desciption" width="300">
 
   <h1>LaTeX on GitHub Pages</h1>
   <p>This is an inline LaTeX equation: \( E = mc^2 \).</p>
